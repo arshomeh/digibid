@@ -14,8 +14,8 @@ The Project has been developed in IntelliJ IDEA environment based on Spring plat
 - Java 8, Spring framwork(Boot, Security, Data), Hibernate, Lucene.
 ### Frontend: 
 - Apache Freemarker(ftl), HTML, Jquery, Bootstrap, Websockets, Jackson.
-### Data Base
+### Data Base:
 - MySQL
 
-### Notes
+## Notes
 To run the application you will need to install Maven and add Lombok plugin.
